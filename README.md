@@ -11,7 +11,7 @@
 
 ### :basecamp: Welcome to my GitHub Profile!
 
-Hi there! I'm a computer science student at UPES and an aspiring web developer. I'm passionate about coding and always looking for new challenges to push my skills and knowledge further.
+Hi there! I'm Rohit Hooda, a computer science student at UPES and an aspiring web developer. I'm passionate about coding and always looking for new challenges to push my skills and knowledge further.
 
 ### :hammer_and_wrench: Skills
 
