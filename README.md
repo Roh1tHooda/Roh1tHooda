@@ -26,3 +26,5 @@ Other skills: Git, etc.
 If you'd like to get in touch with me, feel free to send me an email at hoodarohit625@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-hooda-9807bb254/). I'm always happy to chat about technology, code, and everything in between!
 
 Thank you for visiting my profile. I hope you find it informative and interesting.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roh1tHooda)](https://github.com/Roh1tHooda/github-readme-stats)
