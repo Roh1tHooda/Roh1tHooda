@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on C.
-- 🌱 I’m currently learning python and Javascript.
-- 👯 I’m looking to collaborate on web development projects.
-- 🤔 I’m looking for help with learning javascript.
+- 🔭 I’m currently working with C.
+- 🌱 Currently learning python and Javascript.
+- 👯 Looking to collaborate on web development projects.
+- 🤔 Looking for help with learning javascript.
 - 💬 Ask me about HTML, CSS, C.
 - 📫 How to reach me: https://www.linkedin.com/in/rohit-hooda-9807bb254/
 - 😄 Pronouns: He/Him
