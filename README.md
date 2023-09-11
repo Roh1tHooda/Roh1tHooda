@@ -6,7 +6,6 @@
 - 🤔 Looking for help with learning javascript.
 - 💬 Ask me about HTML, CSS, C.
 - 📫 How to reach me: https://www.linkedin.com/in/rohit-hooda-9807bb254/
-- 😄 Pronouns: He/Him
 
 
 ### :basecamp: Welcome to my GitHub Profile!
